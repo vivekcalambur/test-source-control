@@ -1,0 +1,10 @@
+id: query2
+type: datasource
+template:
+  editorMode: sql
+  runWhenModelUpdates: false
+  queryTimeout: '120000'
+  evalType: script
+createdAt: 2024-10-30T06:42:35.690Z
+blockData:
+  pluginId: query2
