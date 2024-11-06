@@ -1,0 +1,18 @@
+<PlaygroundQuery
+  id="Untitled"
+  adhocResourceType={null}
+  data={null}
+  resourceType="postgresql"
+>
+  <SqlQuery
+    _additionalScope={[]}
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    dataArray={[]}
+    events={[]}
+    importedQueryDefaults={{}}
+    importedQueryInputs={{}}
+    privateParams={[]}
+    watchedParams={[]}
+  />
+</PlaygroundQuery>
