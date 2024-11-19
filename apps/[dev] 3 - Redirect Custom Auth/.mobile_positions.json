@@ -1,0 +1,16 @@
+{
+  "authlogin1": {
+    "row": 3,
+    "height": 1,
+    "width": 4
+  },
+  "table1": {
+    "row": 1,
+    "col": 2,
+    "height": 8,
+    "width": 8
+  },
+  "text1": {
+    "height": 1
+  }
+}

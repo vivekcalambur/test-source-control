@@ -1,0 +1,19 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "ee8e8736-1186-11ea-810f-aff26034e102",
+  "appTemplate": {
+    "appMaxWidth": "1560px",
+    "appTesting": {
+      "object": {
+        "testSuites": {
+          "array": []
+        },
+        "tests": {
+          "object": {}
+        }
+      }
+    },
+    "version": "3.121.0"
+  }
+}
