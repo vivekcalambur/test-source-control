@@ -4,7 +4,7 @@
     <TextWidget
       id="text1"
       renderAsHtml={true}
-      style={{}}
+      style={{ ordered: [] }}
       value="# Hello world, am I speaking with {{ textinput1.value }}?"
     />
     <TextInputWidget
@@ -15,10 +15,11 @@
       labelPlacedOnLeft=""
       leftIconName="search"
       placeholder="Search here..."
-      style={{}}
+      style={{ ordered: [] }}
       type="text"
       validationType="regexp"
       validatonType=""
     />
+    <Button id="button1" text="Button" />
   </Frame>
 </App>
