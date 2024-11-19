@@ -1,0 +1,56 @@
+{
+  "button1": {
+    "row": 4,
+    "col": 4,
+    "height": 1
+  },
+  "button2": {
+    "row": 14,
+    "col": 1,
+    "height": 1
+  },
+  "button3": {
+    "row": 15.6,
+    "col": 1,
+    "height": 1
+  },
+  "container1": {
+    "row": 9.4,
+    "col": 1,
+    "height": 0.2,
+    "width": 6
+  },
+  "containerTitle1": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "divider1": {
+    "row": 7.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "navigation1": {
+    "row": 2.4,
+    "col": 1,
+    "height": 0.8,
+    "width": 2
+  },
+  "select1": {
+    "row": 6.4,
+    "col": 4,
+    "height": 1,
+    "width": 4
+  },
+  "spacer1": {
+    "row": 0.4,
+    "col": 4,
+    "height": 0.2,
+    "width": 2
+  },
+  "text1": {
+    "row": 8.2,
+    "height": 0.6
+  }
+}
