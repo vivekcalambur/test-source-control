@@ -1,6 +1,7 @@
 <App>
   <Include src="./functions.rsx" />
   <Frame id="$main" padding="8px 12px" type="main">
+    <Button id="button1" text="Button" />
     <TextWidget
       id="text1"
       renderAsHtml={true}
@@ -20,6 +21,5 @@
       validationType="regexp"
       validatonType=""
     />
-    <Button id="button1" text="Button" />
   </Frame>
 </App>

@@ -1,16 +1,5 @@
 {
-  "button1": {
-    "row": 3.6,
-    "height": 1,
-    "width": 2
-  },
-  "text1": {
-    "height": 1,
-    "width": 9
-  },
-  "textinput1": {
-    "row": 1,
-    "height": 2,
-    "width": 4
-  }
+  "button1": {},
+  "text1": {},
+  "textinput1": {}
 }
