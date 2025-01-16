@@ -1,24 +1,29 @@
 <App>
   <Include src="./functions.rsx" />
   <Frame id="$main" padding="8px 12px" type="main">
-    <TextWidget
+    <Text
       id="text1"
-      renderAsHtml={true}
+      events={null}
+      hidden={null}
+      maintainSpaceWhenHidden={null}
+      showInEditor={null}
       style={{ ordered: [] }}
       value="# Hello world, am I speaking with {{ textinput1.value }}?"
+      verticalAlign="center"
     />
-    <TextInputWidget
+    <TextArea
       id="textinput1"
-      docsSlug="textinput"
-      initialValue="{{ current_user.email}}"
+      disabled=""
+      hidden={null}
       label="Your name"
-      labelPlacedOnLeft=""
-      leftIconName="search"
+      labelPosition="top"
+      labelWrap={true}
+      maintainSpaceWhenHidden={null}
+      minLines={7}
       placeholder="Search here..."
+      showInEditor={null}
       style={{ ordered: [] }}
-      type="text"
-      validationType="regexp"
-      validatonType=""
+      value="{{ current_user.email}}"
     />
     <Button id="button2" text="Button" />
   </Frame>
