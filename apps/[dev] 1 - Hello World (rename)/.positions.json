@@ -1,6 +1,6 @@
 {
   "button2": {
-    "row": 10.2,
+    "row": 1.6,
     "height": 1,
     "width": 2
   },
@@ -8,6 +8,7 @@
     "width": 8
   },
   "textinput1": {
-    "row": 5
+    "row": 0.6,
+    "width": 4
   }
 }
