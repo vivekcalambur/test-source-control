@@ -25,6 +25,5 @@
       style={{ ordered: [] }}
       value="{{ current_user.email}}"
     />
-    <Button id="button2" text="Button" />
   </Frame>
 </App>
