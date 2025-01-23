@@ -1,6 +1,7 @@
 <GlobalFunctions>
   <RESTQuery
     id="query1"
+    isHidden={false}
     playgroundQueryId={0}
     playgroundQuerySaveId={0}
     query="https://httpbin.org/get"
