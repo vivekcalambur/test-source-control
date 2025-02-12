@@ -1,5 +1,6 @@
 <App>
   <Include src="./functions.rsx" />
+random garbage
   <Frame id="$main" padding="8px 12px" type="main">
     <Text
       id="text1"
