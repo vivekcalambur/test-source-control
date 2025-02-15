@@ -1,0 +1,20 @@
+<PlaygroundQuery
+  id="Test-query"
+  adhocResourceType={null}
+  data={null}
+  resourceType="postgresql"
+>
+  <SqlQuery
+    _additionalScope={[]}
+    allowedGroupIds={[]}
+    allowedGroups={[]}
+    dataArray={[]}
+    events={[]}
+    importedQueryDefaults={{}}
+    importedQueryInputs={{}}
+    privateParams={[]}
+    query={include("./lib/Test-query.sql", "string")}
+    warningCodes={[]}
+    watchedParams={[]}
+  />
+</PlaygroundQuery>
